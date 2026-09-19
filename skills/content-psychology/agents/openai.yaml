@@ -1,0 +1,4 @@
+interface:
+  display_name: "콘텐츠 심리 설계"
+  short_description: "주제 선정부터 검증된 원리로 콘텐츠를 설계합니다"
+  default_prompt: "Use $content-psychology to select a content topic from audience moments and evidence, then draft the right platform format."
